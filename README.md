@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0614b8&size=35&center=true&vCenter=true&width=1000&lines=ℌ𝔢𝔩𝔩𝔬+𝔣𝔯𝔦𝔢𝔫𝔡,+𝔐𝔶+𝔫𝔞𝔪𝔢+𝔦𝔰+𝔏𝔲𝔦𝔰+𝔈𝔡𝔲𝔞𝔯𝔡𝔬;𝐼'𝓂+20+𝓎𝑒𝒶𝓇𝓈+𝑜𝓁𝒹;𝘐'𝘮+𝘧𝘳𝘰𝘮+𝘉𝘳𝘢𝘻𝘪𝘭;I'м+grαduαŧiηg+Dαŧα+αηαłysis+αηd+sysŧємs+Dєvєłøρмєηŧ;𝐵𝑒+𝑊𝑒𝑙𝑐𝑜𝑚𝑒єєєєєєєєєєєєєє€€€€€€€€€€€€€єєєєєєє;єrrør+404+:&#40;)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luis-dll&bg_color=000000&color=00ff04&line=001eff&point=0bfe3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
