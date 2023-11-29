@@ -44,8 +44,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004f04&height=120&section=footer"/>
 
-![Snake animation](https://github.com/luis-dll/luis-dll/blob/output/github-contribution-grid-snake.svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Hevig&size=35&pause=1000&color=21CF24&random=false&lines=Coding+for++love+%3C3;" />
 
-luis-dll: generate-snake-game-from-github-contribution-grid
 
 
